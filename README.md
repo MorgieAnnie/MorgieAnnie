@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MorgieAnnie
-- 👀 I’m interested in FullStack Wed Development
+- 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Application Development
 - 📫 How to reach me morgieannie@hotmail.com
